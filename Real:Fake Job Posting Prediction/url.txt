@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction/data
+https://huggingface.co/spaces/divanirafitya/fake_job_postings
